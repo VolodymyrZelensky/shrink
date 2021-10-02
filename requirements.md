@@ -1,2 +1,4 @@
 # required libraries for this tool
-- [https://github.com/whoshuu/cpr](libcpr)
+- [libcpr](https://github.com/libcpr/cpr)
+- [fmtlib](https://github.com/fmtlib/fmt)
+- [json](https://github.com/nlohmann/json)
