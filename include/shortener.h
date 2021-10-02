@@ -3,12 +3,10 @@
 
 #include <iostream>
 #include <cpr/cpr.h>
-#include <effolkronium/random.hpp>
 #include <nlohmann/json.hpp>
 #include <fmt/core.h>
 
 using Json = nlohmann::json;
-using Random = effolkronium::random_static;
 
 class Shortener
 {
