@@ -7,7 +7,7 @@
     A program to short links using command line
         Download :-
           1. Debian Package *.deb* : https://github.com/Lil-Nickel/shrink/releases/download/linux/shrink-1.0.0-beta_amd64.deb
-          2. Linux Protable *.tar.xz* :https://github.com/Lil-Nickel/shrink/releases/download/linux/shrink-1.0.0-beta_amd64.tar.xz
+          2. Linux Portable *.tar.xz* :https://github.com/Lil-Nickel/shrink/releases/download/linux/shrink-1.0.0-beta_amd64.tar.xz
           
         Usage :-
           Required options:
@@ -29,3 +29,5 @@
               <code>0</code>
               <result>https://bit.ly/2U6Mssn</result>
             </root>
+
+          Made with ❤ & hand craft 
